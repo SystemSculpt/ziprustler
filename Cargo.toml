@@ -1,0 +1,10 @@
+[package]
+name = "ziprustler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zip = "0.6.6"
+chrono = "0.4.31"
+dirs = "5.0.1"
+indicatif = "0.17.7"
